@@ -1,8 +1,8 @@
 # Atmega-1284P-Board
 1.Goals
--> Make it easy to solder and assembly
--> Use widely availible components
--> Use coponents that are easy to obtain from disaableying other devices
+-> Make it easy to solder and assembly                                     <br>
+-> Use widely availible components    </br>
+-> Use coponents that are easy to obtain from disaableying other devices      </br>
 
 2.What this board offers?:
 -> 16 digital pins, 8 analog, 2pwm.
