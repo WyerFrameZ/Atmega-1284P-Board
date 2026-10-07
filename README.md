@@ -1,1 +1,18 @@
 # Atmega-1284P-Board
+1.Goals
+-> Make it easy to solder and assembly
+-> Use widely availible components
+-> Use coponents that are easy to obtain from disaableying other devices
+
+2.What this board offers?:
+-> 16 digital pins, 8 analog, 2pwm.
+-> Arduino MEGA/DUE for factor so u can use shields and casings from that boards.
+-> more elctrical efficiency than orginal arduinos.
+
+3.How to assemble this board?
+ 1. Dwonlaod gerbers and send them to your miling company 
+ 2. Order or desolder required compoents
+ 3. Solder everything in correct way with schematic
+  - U can choose beetwen 16MHz or 20MHz oscilator, depends on your need
+ 4. Test everything, if something doesnt work properly check your mcu
+  ! Dont forget to bur bootloadder into your atmega !
