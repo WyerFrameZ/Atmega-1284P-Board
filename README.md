@@ -5,9 +5,9 @@
 -> Use coponents that are easy to obtain from disaableying other devices      </br>
 
 2.What this board offers?:
--> 16 digital pins, 8 analog, 2pwm.
--> Arduino MEGA/DUE for factor so u can use shields and casings from that boards.
--> more elctrical efficiency than orginal arduinos.
+-> 16 digital pins, 8 analog, 2pwm.   <br>
+-> Arduino MEGA/DUE for factor so u can use shields and casings from that boards.  <br>
+-> more elctrical efficiency than orginal arduinos.  <br>  
 
 3.How to assemble this board?
  1. Dwonlaod gerbers and send them to your miling company 
